@@ -1,2 +1,0 @@
-# javascript
-simple javascript projects
